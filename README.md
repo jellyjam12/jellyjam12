@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jellyjam12
 - 👀 I’m interested in learning java script, html & css
-- 🌱 I’m currently learning java script
+- 🌱 I’m currently learning Html
 - 💞️ I’m looking to collaborate on many projects for creating apps
 - 📫 How to reach me - contact me on email @akeemminto36@gmail.com
 
